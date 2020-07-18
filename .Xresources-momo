@@ -214,8 +214,8 @@ URxvt.keysym.Shift-Control-Down:  \033[1;6B
 ! URxvt*italicFont:                 fontname
 ! URxvt*boldItalicFont:             fontname
 ! URxvt*intensityStyles:            boolean
-! URxvt*inputMethod:                name
-! URxvt*preeditType:                style
+! URxvt*inputMethod:                ibus
+! URxvt*preeditType:                OverTheSpot
 ! URxvt*imLocale:                   string
 ! URxvt*imFont:                     fontname
 ! URxvt*title:                      string

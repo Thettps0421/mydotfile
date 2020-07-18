@@ -17,6 +17,7 @@ set tabstop=4
 set softtabstop=4
 set expandtab
 set number
+set mouse=a
 highlight LineNr ctermfg=cyan
 hi StatusLine ctermfg=NONE ctermbg=red cterm=NONE
 hi StatusLineNC ctermfg=black ctermbg=red cterm=NONE

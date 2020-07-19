@@ -1,4 +1,7 @@
 # mydotfile
+
+refer: https://github.com/floppyears/dotfiles
+
 Dotfiles manjaro i3
 
 Install i3pystatus for bar.

@@ -1,6 +1,7 @@
 # mydotfile
 
 refer: https://github.com/floppyears/dotfiles
+https://github.com/owl4ce/dotfiles
 
 Dotfiles manjaro i3
 
